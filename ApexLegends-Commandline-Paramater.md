@@ -1,6 +1,6 @@
 # Command line paramater
 
--novid -fullscreen +m_rawinput 1 -preload -forcenovsync -useforcedmparms -noforcemaccel -noforcemspd +FPS_MAX 191 -dev +mat_queue_mode 2 -high +cl_forcepreload 1 -limitvsconst +miles_channels 2
+-novid -fullscreen +m_rawinput 1 -preload -forcenovsync -useforcedmparms -noforcemaccel -noforcemspd +FPS_MAX 191 -dev +mat_queue_mode 2 -high +cl_forcepreload 1 -limitvsconst +miles_channels 2 +reticle+color "-200 250 1250"
 
 # Other paramater
 
